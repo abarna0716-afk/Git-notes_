@@ -2,3 +2,4 @@ My First Git Command
 This is second line
 MY First work
 Today is second day of job
+Happy to be part this team
